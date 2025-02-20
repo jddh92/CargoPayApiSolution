@@ -1,0 +1,6 @@
+@CargoPayApi_HostAddress = http://localhost:5188
+
+GET {{CargoPayApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
